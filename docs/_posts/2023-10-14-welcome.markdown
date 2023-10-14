@@ -1,7 +1,8 @@
 ---
-layout: post
+#layout: post
 title:  "Migrating to Jekyll from WordPress"
 date:   2023-10-14 09:41:53 +0000
+type: post
 categories: blog
 ---
 
