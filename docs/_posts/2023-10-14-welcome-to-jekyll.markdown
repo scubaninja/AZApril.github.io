@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Migrating to Jekyll from WordPress"
 date:   2023-10-14 09:41:53 +0000
-categories: jekyll update
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hello Everyone!
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I have been mulling over what to do with my blog for over the past couple of years. For the last few years of my life, I was asked/measured/required to blog for https://devblogs.microsoft.com. Leading me to prioritize my work blogging, really unsure of what to do with my personal site. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+For the time being, I will working through migrating my blog off of WordPress and onto GitHub Pages using Jekyll. I will be also adding in some cool features around embedding my talks, decks and some other cool stuff. Watch this space for my next update!
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[April's Website]: https://azapril.dev
